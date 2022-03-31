@@ -1,0 +1,26 @@
+[
+   {
+      "name": "Chantal",
+      "description": "K-pa",
+      "price": 2020,
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3304057.jpeg"
+   },
+   {
+      "name": "Santiago",
+      "description": "Cunese",
+      "price": 2020,
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3304057.jpeg",
+      "id": "2"
+   },
+   {
+      "name": "Martin",
+      "description": "Fiiori",
+      "price": 20,
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3304057.jpeg",
+      "id": 3
+   },
+   {
+      "products": [],
+      "id": 4
+   }
+]
